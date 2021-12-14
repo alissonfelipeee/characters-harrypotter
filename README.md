@@ -13,5 +13,4 @@
 ### Observações:
 - A API utilizada se encontra desatualizada, então nem todas as informações estão corretas ou sendo exibida. 
 
-#### Este projeto está hospedado aqui no Github.
-<p><a href="https://dlzzdev.github.io/characters-harrypotter/" target="_blank" rel="noopener">Clique aqui para visualizar!</p>
+### Este projeto não está hospedado no momento.
