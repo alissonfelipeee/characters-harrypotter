@@ -1,0 +1,72 @@
+body {
+	background-image: linear-gradient(to right top, #1a472a, #0f4d43, #1f5155, #39535e, #4e5660, #4f5863, #515b65, #525d68, #3e5f6c, #256266, #186356, #2a623d);
+	color: white;
+	margin: 0;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#type{
+	padding: 10px;
+	border-radius: 5px;
+	outline: none;
+}
+
+.container {
+	padding: 40px;
+	margin: 0 auto;
+}
+
+h1 {
+	text-align: center;
+	font-size: 54px;
+}
+
+.characters {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+	grid-gap: 20px;
+	padding-inline-start: 0;
+}
+
+.card {
+	list-style: none;
+	padding: 40px;
+	text-align: center;
+	border-radius: 15px;
+	position: relative;
+	background-color: rgba(0, 0, 0, 0.09);
+}
+
+
+.card-title {
+	text-transform: capitalize;
+	margin-bottom: 0px;
+	font-size: 32px;
+	font-weight: normal;
+	position: relative;
+	z-index: 2;
+}
+
+.card-image {
+	height: 150px;
+	position: relative;
+	z-index: 2;
+	border-radius: 4px;
+}
+
+p > span {
+	color: rgb(236, 236, 236);
+}
+
+::-webkit-scrollbar-track {
+	background-color: #F4F4F4;
+}
+
+::-webkit-scrollbar {
+	width: 6px;
+	background: #F4F4F4;
+}
+
+::-webkit-scrollbar-thumb {
+	background: #dad7d7;
+}

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Characters</title>
+  <link rel="stylesheet" href="./style.css" />
+  <link href="https://fonts.googleapis.com/css?family=Rubik&display=swap" rel="stylesheet" />
+</head>
+<body>
+
+  <div class="container">
+    <select id="type" onchange="update()">
+      <option>Selecione</option>
+      <option value="all">Todos</option>
+      <option value="staff">Professores</option>
+    </select>
+    <h1>Characters of Harry Potter</h1>
+    <ul data-js="characters" class="characters"></ul>
+  </div>
+  
+  <script src="./app.js"></script>
+</body>
+</html>
