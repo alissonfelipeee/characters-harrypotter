@@ -13,6 +13,4 @@
 ### Observações:
 - A API utilizada se encontra desatualizada, então nem todas as informações estão corretas ou sendo exibida. 
 
-### Este projeto se encontra hospedado em meu website.
-
-<p><a href="https://dlzzdev.com/harrypotter/ target="_blank" rel="noopener">Clique aqui para visualizar.</p>
+### Este projeto não se encontra hospedado no momento.
